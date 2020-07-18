@@ -1,0 +1,239 @@
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Medium.eot');
+    src: url('Neon-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Medium.woff2') format('woff2'),
+        url('Neon-Medium.woff') format('woff'),
+        url('Neon-Medium.ttf') format('truetype'),
+        url('Neon-Medium.svg#Neon-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Regular.eot');
+    src: url('Neon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Regular.woff2') format('woff2'),
+        url('Neon-Regular.woff') format('woff'),
+        url('Neon-Regular.ttf') format('truetype'),
+        url('Neon-Regular.svg#Neon-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-LightItalic.eot');
+    src: url('Neon-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-LightItalic.woff2') format('woff2'),
+        url('Neon-LightItalic.woff') format('woff'),
+        url('Neon-LightItalic.ttf') format('truetype'),
+        url('Neon-LightItalic.svg#Neon-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Heavy.eot');
+    src: url('Neon-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Heavy.woff2') format('woff2'),
+        url('Neon-Heavy.woff') format('woff'),
+        url('Neon-Heavy.ttf') format('truetype'),
+        url('Neon-Heavy.svg#Neon-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-ExtraBold.eot');
+    src: url('Neon-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Neon-ExtraBold.woff2') format('woff2'),
+        url('Neon-ExtraBold.woff') format('woff'),
+        url('Neon-ExtraBold.ttf') format('truetype'),
+        url('Neon-ExtraBold.svg#Neon-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Light.eot');
+    src: url('Neon-Light.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Light.woff2') format('woff2'),
+        url('Neon-Light.woff') format('woff'),
+        url('Neon-Light.ttf') format('truetype'),
+        url('Neon-Light.svg#Neon-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon Bold Outline';
+    src: url('Neon-BoldOutline.eot');
+    src: url('Neon-BoldOutline.eot?#iefix') format('embedded-opentype'),
+        url('Neon-BoldOutline.woff2') format('woff2'),
+        url('Neon-BoldOutline.woff') format('woff'),
+        url('Neon-BoldOutline.ttf') format('truetype'),
+        url('Neon-BoldOutline.svg#Neon-BoldOutline') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-HeavyItalic.eot');
+    src: url('Neon-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-HeavyItalic.woff2') format('woff2'),
+        url('Neon-HeavyItalic.woff') format('woff'),
+        url('Neon-HeavyItalic.ttf') format('truetype'),
+        url('Neon-HeavyItalic.svg#Neon-HeavyItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon Italic Outline';
+    src: url('Neon-ItalicOutline.eot');
+    src: url('Neon-ItalicOutline.eot?#iefix') format('embedded-opentype'),
+        url('Neon-ItalicOutline.woff2') format('woff2'),
+        url('Neon-ItalicOutline.woff') format('woff'),
+        url('Neon-ItalicOutline.ttf') format('truetype'),
+        url('Neon-ItalicOutline.svg#Neon-ItalicOutline') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Thin.eot');
+    src: url('Neon-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Thin.woff2') format('woff2'),
+        url('Neon-Thin.woff') format('woff'),
+        url('Neon-Thin.ttf') format('truetype'),
+        url('Neon-Thin.svg#Neon-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Bold.eot');
+    src: url('Neon-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Bold.woff2') format('woff2'),
+        url('Neon-Bold.woff') format('woff'),
+        url('Neon-Bold.ttf') format('truetype'),
+        url('Neon-Bold.svg#Neon-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Italic.eot');
+    src: url('Neon-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Italic.woff2') format('woff2'),
+        url('Neon-Italic.woff') format('woff'),
+        url('Neon-Italic.ttf') format('truetype'),
+        url('Neon-Italic.svg#Neon-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-BoldItalic.eot');
+    src: url('Neon-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-BoldItalic.woff2') format('woff2'),
+        url('Neon-BoldItalic.woff') format('woff'),
+        url('Neon-BoldItalic.ttf') format('truetype'),
+        url('Neon-BoldItalic.svg#Neon-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-Black.eot');
+    src: url('Neon-Black.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Black.woff2') format('woff2'),
+        url('Neon-Black.woff') format('woff'),
+        url('Neon-Black.ttf') format('truetype'),
+        url('Neon-Black.svg#Neon-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon Outline';
+    src: url('Neon-Outline.eot');
+    src: url('Neon-Outline.eot?#iefix') format('embedded-opentype'),
+        url('Neon-Outline.woff2') format('woff2'),
+        url('Neon-Outline.woff') format('woff'),
+        url('Neon-Outline.ttf') format('truetype'),
+        url('Neon-Outline.svg#Neon-Outline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon Heavy Outline';
+    src: url('Neon-HeavyOutline.eot');
+    src: url('Neon-HeavyOutline.eot?#iefix') format('embedded-opentype'),
+        url('Neon-HeavyOutline.woff2') format('woff2'),
+        url('Neon-HeavyOutline.woff') format('woff'),
+        url('Neon-HeavyOutline.ttf') format('truetype'),
+        url('Neon-HeavyOutline.svg#Neon-HeavyOutline') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-ThinItalic.eot');
+    src: url('Neon-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-ThinItalic.woff2') format('woff2'),
+        url('Neon-ThinItalic.woff') format('woff'),
+        url('Neon-ThinItalic.ttf') format('truetype'),
+        url('Neon-ThinItalic.svg#Neon-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-ExtraBoldItalic.eot');
+    src: url('Neon-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-ExtraBoldItalic.woff2') format('woff2'),
+        url('Neon-ExtraBoldItalic.woff') format('woff'),
+        url('Neon-ExtraBoldItalic.ttf') format('truetype'),
+        url('Neon-ExtraBoldItalic.svg#Neon-ExtraBoldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-MediumItalic.eot');
+    src: url('Neon-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-MediumItalic.woff2') format('woff2'),
+        url('Neon-MediumItalic.woff') format('woff'),
+        url('Neon-MediumItalic.ttf') format('truetype'),
+        url('Neon-MediumItalic.svg#Neon-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neon';
+    src: url('Neon-BlackItalic.eot');
+    src: url('Neon-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Neon-BlackItalic.woff2') format('woff2'),
+        url('Neon-BlackItalic.woff') format('woff'),
+        url('Neon-BlackItalic.ttf') format('truetype'),
+        url('Neon-BlackItalic.svg#Neon-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
